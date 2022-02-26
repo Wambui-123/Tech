@@ -23,6 +23,8 @@ This website inludes updated tecnology information, updated devices and the adva
 ## Link to project
 https://wambui-123.github.io/Tech/
 
+## Author
+Contribution made by git username yvonne-1-2-3
 ## License 
 MIT License
 
