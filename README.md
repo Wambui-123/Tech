@@ -1,6 +1,5 @@
 # Technology
 
-=======
 by Yvonne Wambui Muthui.
 
 A simple wesite with HTML and CSS languages.
